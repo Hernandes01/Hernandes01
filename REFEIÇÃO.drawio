@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T00:46:07.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ajCimreU0ecRowB9CrJo" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T00:48:53.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="iObTCjxVZRhI42JgTe4l" version="22.1.18" type="github">
   <diagram name="Página-1" id="RNMoF_OnIda3Cw2BNOBb">
     <mxGraphModel dx="758" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,16 +105,27 @@
         <mxCell id="RKQrDpilRz8z7lB3Kckg-52" value="DESLIGUE O FOGÃO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RKQrDpilRz8z7lB3Kckg-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKQrDpilRz8z7lB3Kckg-54">
+        <mxCell id="RKQrDpilRz8z7lB3Kckg-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKQrDpilRz8z7lB3Kckg-54" target="RKQrDpilRz8z7lB3Kckg-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="1420" />
+              <mxPoint x="460" y="1420" />
+              <mxPoint x="460" y="1410" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RKQrDpilRz8z7lB3Kckg-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKQrDpilRz8z7lB3Kckg-54" target="RKQrDpilRz8z7lB3Kckg-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RKQrDpilRz8z7lB3Kckg-54" value="COLOQUE O TEMPERO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RKQrDpilRz8z7lB3Kckg-57" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQrDpilRz8z7lB3Kckg-58" value="SIRVA A REFEIÇÃO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
