@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T11:34:59.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8OpKXKKkiYwizT7q44CZ" version="22.1.21" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-19T11:50:07.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="xosdjHKtJ0Nj53A4tH_h" version="22.1.21" type="github" pages="3">
   <diagram name="Refeição" id="RNMoF_OnIda3Cw2BNOBb">
     <mxGraphModel dx="872" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-bS_Ozu2DPXqmgxybjJz" name="conversor moedas">
-    <mxGraphModel dx="2580" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,6 +373,12 @@
             <mxPoint x="680" y="1900" as="sourcePoint" />
             <mxPoint x="310" y="1890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BumUvPSaQRyJshAO2N_S-72" value="Dólar &amp;gt;&amp;gt; Real" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1230" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="BumUvPSaQRyJshAO2N_S-73" value="Real &amp;gt;&amp;gt; Dólar&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1230" width="280" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
